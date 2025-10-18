@@ -22,3 +22,10 @@ No projeto irei usar essencialmente o google colab e a partir do drive conseguir
 - Pandas
 - Stramlit
 - Matplotlib
+
+## Funcionamento
+
+<p align="center">
+  <img src="./media/demo.gif" alt="Demonstração do projeto" width="700"/>
+</p>
+
